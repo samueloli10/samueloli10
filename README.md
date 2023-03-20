@@ -1,8 +1,8 @@
 Olá, sou o Samuel Oliveira. Sejam bem vindos!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueloli10&count_private=true&show_icons=true&theme=github_dark&locale=pt-br&include_all_commits=true)](https://github.com/samueloli10)
+#[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samueloli10&count_private=true&show_icons=true&theme=github_dark&locale=pt-br&include_all_commits=true)](https://github.com/samueloli10)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueloli10&layout=compact&theme=github_dark&locale=pt-br)](https://github.com/samueloli10)
+#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samueloli10&layout=compact&theme=github_dark&locale=pt-br)](https://github.com/samueloli10)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Samuel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
